@@ -13,7 +13,7 @@ Repositório para armazenar resumos sobre Git e GitHub
 
 
 
-\## 💻Resumos das Aulas
+\## 💻Resumo das Aulas
 
 
 | Aulas | Resumos |
