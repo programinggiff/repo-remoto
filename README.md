@@ -13,11 +13,11 @@ Repositório para armazenar resumos sobre Git e GitHub
 
 
 
-\## 💻Resumo das Aulas
+\## 💻Resumos das Aulas
 
 
 | Aulas | Resumos |
-
+|                 |
 |-------|---------|
-
+|Aula 01|Aula 02  |
 |Gravando Alterações no Repositório Local |
