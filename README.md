@@ -1,9 +1,8 @@
+<<<<<<< HEAD
 \# Resumo Git e GitHub
 
 
-
 Repositório para armazenar resumos sobre Git e GitHub
-
 
 
 \## 💻📚 Documentação
@@ -17,10 +16,8 @@ Repositório para armazenar resumos sobre Git e GitHub
 \## 💻Resumos das Aulas
 
 
-
 | Aulas | Resumos |
 
 |-------|---------|
 
 |Gravando Alterações no Repositório Local |
-
